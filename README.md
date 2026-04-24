@@ -1,5 +1,3 @@
-Viewed basic-07-unit-http-lifecycle.html:1-393
-
 針對 **`basic-07-unit-http-lifecycle` (HTTP 協議與請求生命週期)** 單元，這是學員從「功能開發者」轉型為「效能工程師」的核心課程。它要求學員具備 **通訊診斷 (Network Diagnostics)** 與 **延遲優化 (Latency Optimization)** 的思維，學習如何利用瀏覽器開發者工具 (F12) 將隱形的網路握手視覺化，並掌握「連線複用 (Keep-Alive)」這類工業級技術如何顯著提升物聯網設備的反應速度。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
